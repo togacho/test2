@@ -4,4 +4,6 @@ def greeting(name):
 greeting("World")
 
 print("Test")
+print("test")
+
 
